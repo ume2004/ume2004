@@ -1,14 +1,6 @@
-### Hi there 👋 I am Mohammed Umer Khan
-
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Educational websites
-- 🌱 I’m currently learning ...html,css,javascript,python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Hi, I’m Mohammed Umer khan
+👀 I’m interested in coding
+🌱 I’m currently pursuing BTECH CSE from Lovely Professional University
+💞️ I’m looking to enhance my technical skills and ultimately have a strong Engineering Profession.
+📫 How to reach me drop me a mail mohammadumerkhan74@gmail.com
